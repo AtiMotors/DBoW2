@@ -1,0 +1,1 @@
+cmake -DPYTHON_EXECUTABLE=$(which python) .. after sourcing the correct python enviroment
